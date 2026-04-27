@@ -1,6 +1,6 @@
 local ConfigMap = {
     [121864768012064] = {
-        url = "https://pastefy.app/wVsdCqX5/raw"
+        url = "https://pastefy.app/YQ9BdH2g/raw"
     },
     [93978595733734] = {
         url = "https://raw.githubusercontent.com/zerotheking152-png/QuantumCOM/refs/heads/main/QHComunnity.lua"
