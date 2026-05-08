@@ -3,7 +3,7 @@ local ConfigMap = {
         url = "https://pastefy.app/9bqtCiiO/raw"
     },
     [93978595733734] = {
-        url = "https://pastefy.app/Iz8kBBgj/raw"
+        url = "https://pastefy.app/F0AvOIIh/raw"
     },
     [126884695634066] = {
         url = "https://raw.githubusercontent.com/zerotheking152-png/QuantumGAG/main/QHCommunity.lua"
