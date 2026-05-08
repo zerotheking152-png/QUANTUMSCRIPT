@@ -1,6 +1,6 @@
 local ConfigMap = {
     [121864768012064] = {
-        url = "https://pastefy.app/9bqtCiiO/raw"
+        url = "https://pastefy.app/eaAoL6iD/raw"
     },
     [93978595733734] = {
         url = "https://pastefy.app/F0AvOIIh/raw"
